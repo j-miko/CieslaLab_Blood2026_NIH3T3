@@ -1,4 +1,4 @@
-Supplemental code for Liudkovska et al. 2026. This repository provides step-by-step guidance to reproduce the CLIP data in the MS.
+Supplemental code for [Liudkovska et al. 2026](https://doi.org/10.1182/blood.2025032484). This repository provides step-by-step guidance to reproduce the CLIP data in the MS.
 The workflow is divided into two stages (cluster and desktop) according to computational demand, however it can run entirely on as single machine. 
 All steps require git and conda installed.
 Genome and GTF used: GENCODE M38
